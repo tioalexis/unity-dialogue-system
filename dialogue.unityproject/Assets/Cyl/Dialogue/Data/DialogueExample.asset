@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d35e2b5be14b769b9cb43dcddaaad3, type: 3}
+  m_Name: DialogueExample
+  m_EditorClassIdentifier: 
+  dialogueBeats:
+  - speakerName: Lorem
+    dialogueText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+      sit amet turpis vel justo mollis iaculis ut eu ipsum. Phasellus at molestie
+      lorem. Ut ac nibh molestie, sagittis nisl non, lobortis ligula. Nullam tincidunt
+      tellus tempor sapien laoreet aliquam.
+  - speakerName: Ipsum
+    dialogueText: Cras ex elit, consequat eget eros a, laoreet volutpat augue. Aenean
+      blandit pulvinar lacus, rhoncus imperdiet dolor posuere id. Sed enim est, vulputate
+      ut lacinia sit amet, semper eget mi. Vivamus in sem tristique, laoreet tellus
+      id, blandit justo.
+  - speakerName: Lorem
+    dialogueText: Sed luctus tellus vitae risus interdum dictum. Etiam eu bibendum
+      ante. Morbi pretium sem tortor, in aliquet erat euismod blandit. Aliquam erat
+      volutpat.
